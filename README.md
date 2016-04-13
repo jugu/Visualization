@@ -22,4 +22,6 @@ nltk
    
    pip install nltk
 
-2. 
+2. Run the command: python app.py
+
+3. Open a web browser and open the link : http://localhost:5000/index.html
